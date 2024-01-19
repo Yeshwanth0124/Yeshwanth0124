@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning Real-Time projects.
 - 🌱 I’m currently learning Large Language models(LLM).
 - 💞️ I’m looking to collaborate on interns that helps to gain knowledge.
-- 📫 Contact me throug mail: Yeswanthneella@gmail.com
+- 📫 Contact me through my mail: Yeswanthneella@gmail.com
