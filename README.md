@@ -1,5 +1,6 @@
 -  Hi, I’m @Yeshwanth0124
 -  I’m interested in Machine Learning and Deep learning.
--  I’m currently learning Large Language models(LLM).
+-  I’m currently learning Computer Vision and Transformers.
+-  I'm working on a project AI-Powered Monitering System.
 -  I’m looking to collaborate on interns that helps to gain knowledge.
 -  Contact me through my mail: Yeswanthneella@gmail.com
